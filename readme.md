@@ -8,7 +8,7 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
 
 ### 🚀 Live Demo  
-👉 **https://ayush-raghuwanshi-dev.github.io/todesktop-landing-page/**
+👉 **https://ayush-raghuwanshi-dev.github.io/TailwindCSS-Project/**
 
 Transform your modern web applications into **beautiful, native desktop apps** within minutes!  
 Clean UI • Responsive Layout • TailwindCSS Powered  
