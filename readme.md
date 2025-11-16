@@ -157,43 +157,65 @@ Licensed under the MIT License.
 See LICENSE file for full details.
 
 ---
-
-🙏 Acknowledgments
-
-🙏 Acknowledgments
-
-Special thanks to Anuj Bhaiya for amazing web development teaching.
-
-Resources used:
-
-TailwindCSS
-
-Font Awesome
-
-MDN Docs
-
-Google Fonts
-
-Assets
-
-Icons
-
----
-
-👨‍💻 Developer
-
-Ayush Raghuwanshi
-💻 Full Stack Developer | 🚀 Continuous Learner
+## 🙏 Acknowledgments
 
 <div align="center">
 
+### 🎓 Special Thanks
+
+<a href="https://www.youtube.com/@AnujBhaiya" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube_Channel-Anuj_Bhaiya-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Anuj Bhaiya YouTube">
+</a>
+
+<br>
+
+**A heartfelt thank you to [Anuj Bhaiya](https://www.youtube.com/@AnujBhaiya)** 🙏  
+For his incredible TailwindCSS tutorials that inspire me to build amazing projects with modern technologies.
 
 </div>
+
+### 🛠️ Resources & Technologies Used
+
 <div align="center">
 
-⭐ If you like this project, please give it a star!
-Made with ❤️ by Ayush Raghuwanshi
+| Technology | Purpose |
+|------------|---------|
+| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"> | Utility-first CSS framework |
+| <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Font Awesome"> | Beautiful icons library |
+| <img src="https://img.shields.io/badge/MDN_Web_Docs-000000?style=for-the-badge&logo=mdn-web-docs&logoColor=white" alt="MDN Docs"> | Web development documentation |
+| <img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white" alt="Google Fonts"> | Typography resources |
 
-</div> ```
+</div>
 
 ---
+
+## 👨‍💻 Developer
+
+<div align="center">
+
+### **Ayush Raghuwanshi**  
+💻 Full Stack Developer | 🚀 Continuous Learner | 📚 Open Source Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ayush--Raghuwanshi--Dev-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-Raghuwanshi-Dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Support This Project
+
+If this project helped you or inspired you, please give it a **star** ⭐ - it means a lot!
+
+---
+
+**Made with ❤️ by [Ayush Raghuwanshi](https://github.com/Ayush-Raghuwanshi-Dev)**  
+*Inspired by Anuj Bhaiya's practical teaching approach*
+
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
